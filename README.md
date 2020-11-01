@@ -19,3 +19,10 @@ Following endpoints are available :
 // DELETE 
 /addresses/# - delete an address
 
+
+
+To run  
+1. npm install
+2. nodemon server.js
+
+Test the URLs in Postman starting http://localhost:3000 
